@@ -1,6 +1,6 @@
 ### Hola!👋 Bienvenid@ a mi perfil
 
-Soy una desarrolladora front end con conocimientos en ingeniería eléctrica. Me apasionan los retos y me mueve la curiosidad por aprender. Soy orgullosamente egresada de @laboratoria, donde he adquirido conocimientos de HTML, CSS y Javascript.
+Soy una desarrolladora front end con conocimientos en ingeniería eléctrica. Me apasionan los retos y me mueve la curiosidad por aprender. Soy orgullosamente laboratorian  @laboratoria, donde he adquirido conocimientos de HTML, CSS y Javascript.
 
 
 <!--
