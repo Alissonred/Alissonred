@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola!👋 Bienvenid@ a mi perfil
+
+Soy una desarrolladora front end con conocimientos en ingeniería eléctrica. Me apasionan los retos y me mueve la curiosidad por aprender. Soy orgullosamente egresada de @laboratoria, donde he adquirido conocimientos de HTML, CSS y Javascript.
+
 
 <!--
 **Alissonred/Alissonred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
